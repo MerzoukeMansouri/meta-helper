@@ -4,3 +4,9 @@ dist/
 .DS_Store
 *.meta
 .env
+
+# Testing
+coverage/
+*.test.js
+*.spec.js
+.jest-cache/
